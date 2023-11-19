@@ -18,4 +18,9 @@ echo "Compiling st..."
 make
 echo "Installing st..."
 sudo make install
+cd ../dmenu
+echo "Compiling dmenu..."
+make
+echo "Installing dmenu..."
+sudo make install
 

@@ -1,0 +1,21 @@
+#!/bin/bash
+
+FONTS_DIR=~/.local/share/fonts
+
+echo "Installing fonts..."
+mkdir $FONTS_DIR/Agave -p
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Agave.zip -O $FONTS_DIR/Agave/Agave.zip
+unzip -o $FONTS_DIR/Agave/Agave.zip -d $FONTS_DIR/Agave
+rm $FONTS_DIR/Agave/Agave.zip
+
+cd dwm
+echo "Compiling dwm..."
+make
+echo "Installing dwm..."
+sudo make install
+cd ../st
+echo "Compiling st..."
+make
+echo "Installing st..."
+sudo make install
+

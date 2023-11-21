@@ -23,4 +23,9 @@ echo "Compiling dmenu..."
 make
 echo "Installing dmenu..."
 sudo make install
+cd ../slstatus
+echo "Compiling slstatus..."
+make
+echo "Installing slstatus..."
+sudo make install
 

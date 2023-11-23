@@ -65,7 +65,7 @@ static const char unknown_str[] = "n/a";
  */
 static const struct arg args[] = {
 	/* function format          argument */
-	{ username, "\uf007 %s|", NULL },
-	{ keymap, "\uf11c %s|", NULL },
-	{ datetime, "%s", "\ueab0 %a %e %B|\uf017 %R" },
+	{ username, "^c#bf616a^\uf007 %s^d^|", NULL },
+	{ keymap, "^c#d08770^\uf11c %s^d^|", NULL },
+	{ datetime, "%s^d^|", "^c#ebcb8b^\ueab0 %a %e %B^d^|^c#a3be8c^\uf017 %R" },
 };

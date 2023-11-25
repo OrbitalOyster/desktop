@@ -29,3 +29,5 @@ make
 echo "Installing slstatus..."
 sudo make install
 
+echo "Coping picom config..."
+cp picom.conf ~/.config/

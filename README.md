@@ -7,7 +7,7 @@ Requires
 - make
 - wget
 - zip
-- com
+- picom
 
 Components used
 ---------------

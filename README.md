@@ -2,7 +2,7 @@
 
 Fork of suckless desktop utilities
 
-![desktop](https://github.com/OrbitalOyster/desktop/edit/main/screenshot.png)
+![desktop](https://github.com/OrbitalOyster/desktop/blob/40aef4f282567889c6ba3838fe542c851e4786ba/screenshot.png)
 
 Requires
 -------

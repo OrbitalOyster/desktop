@@ -20,6 +20,7 @@ Components used
 - slstatus (2023-07-04 18:47)
 
 [Agave nerd font](https://github.com/ryanoasis/nerd-fonts)
+
 [Nord color theme](https://www.nordtheme.com/)
 
 Wallpaper by Mikael Gustafsson

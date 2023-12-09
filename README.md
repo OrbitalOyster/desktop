@@ -2,6 +2,8 @@
 
 Fork of suckless desktop utilities
 
+![desktop](https://github.com/OrbitalOyster/desktop/edit/main/screenshot.png)
+
 Requires
 -------
 - make
@@ -18,3 +20,5 @@ Components used
 - slstatus (2023-07-04 18:47)
 
 [Nord color theme](https://www.nordtheme.com/)
+
+Wallpaper by Mikael Gustafsson

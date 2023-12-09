@@ -19,8 +19,7 @@ Components used
 - dmenu    (2023-09-22 13:16)
 - slstatus (2023-07-04 18:47)
 
-[Agave nerd font](https://github.com/ryanoasis/nerd-fonts)
-
+[Agave nerd font](https://github.com/ryanoasis/nerd-fonts)\
 [Nord color theme](https://www.nordtheme.com/)
 
 Wallpaper by Mikael Gustafsson

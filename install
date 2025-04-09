@@ -1,5 +1,13 @@
 #!/bin/bash
 
+echo "Checking prerequisites..."
+if pacman -Qi gcc make wget zip picom nitrogen slock > /dev/null; then
+  echo "Ok"
+else
+  echo "Missing packages"
+  exit 1
+fi
+
 FONTS_DIR=~/.local/share/fonts
 
 echo "Installing fonts..."

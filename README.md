@@ -10,6 +10,8 @@ Requires
 - wget
 - zip
 - picom
+- nitrogen
+- slock
 
 Components used
 ---------------
